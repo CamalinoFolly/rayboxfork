@@ -1,0 +1,15 @@
+/home/gaetani/Documentos/projetos/c#/RayBox/bin/Debug/net6.0/RayBox
+/home/gaetani/Documentos/projetos/c#/RayBox/bin/Debug/net6.0/RayBox.deps.json
+/home/gaetani/Documentos/projetos/c#/RayBox/bin/Debug/net6.0/RayBox.runtimeconfig.json
+/home/gaetani/Documentos/projetos/c#/RayBox/bin/Debug/net6.0/RayBox.dll
+/home/gaetani/Documentos/projetos/c#/RayBox/bin/Debug/net6.0/RayBox.pdb
+/home/gaetani/Documentos/projetos/c#/RayBox/obj/Debug/net6.0/RayBox.csproj.AssemblyReference.cache
+/home/gaetani/Documentos/projetos/c#/RayBox/obj/Debug/net6.0/RayBox.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaetani/Documentos/projetos/c#/RayBox/obj/Debug/net6.0/RayBox.AssemblyInfoInputs.cache
+/home/gaetani/Documentos/projetos/c#/RayBox/obj/Debug/net6.0/RayBox.AssemblyInfo.cs
+/home/gaetani/Documentos/projetos/c#/RayBox/obj/Debug/net6.0/RayBox.csproj.CoreCompileInputs.cache
+/home/gaetani/Documentos/projetos/c#/RayBox/obj/Debug/net6.0/RayBox.dll
+/home/gaetani/Documentos/projetos/c#/RayBox/obj/Debug/net6.0/refint/RayBox.dll
+/home/gaetani/Documentos/projetos/c#/RayBox/obj/Debug/net6.0/RayBox.pdb
+/home/gaetani/Documentos/projetos/c#/RayBox/obj/Debug/net6.0/RayBox.genruntimeconfig.cache
+/home/gaetani/Documentos/projetos/c#/RayBox/obj/Debug/net6.0/ref/RayBox.dll

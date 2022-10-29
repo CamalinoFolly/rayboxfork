@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/gaetani/Documentos/projetos/c#/RayBox/RayBox/RayBox.csproj",
+      "projectUniqueName": "/home/gaetani/Documentos/projetos/c#/RayBox/RayBox.csproj",
       "projectName": "RayBox",
-      "projectPath": "/home/gaetani/Documentos/projetos/c#/RayBox/RayBox/RayBox.csproj",
+      "projectPath": "/home/gaetani/Documentos/projetos/c#/RayBox/RayBox.csproj",
       "packagesPath": "/home/gaetani/.nuget/packages/",
-      "outputPath": "/home/gaetani/Documentos/projetos/c#/RayBox/RayBox/obj/",
+      "outputPath": "/home/gaetani/Documentos/projetos/c#/RayBox/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/gaetani/.nuget/NuGet/NuGet.Config"
