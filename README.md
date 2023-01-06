@@ -1,18 +1,11 @@
 # RayBox
 
-ray box is a opensource raycaster engine/game with a lot o features...
+RayBox is an open source raycasting engine with lots of new features.
 
-i mean. 
-
-will be
+I mean,
 
 
-
-one day
-
+it'l be someday.
 
 
-
-
-
-i hope
+I hope.
