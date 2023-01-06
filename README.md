@@ -1,6 +1,7 @@
 # RayBox
 
-RayBox is an open source raycasting engine with lots of new features.
+RayBox is an open source raycasting engine made by Alnmg, written in C# with lots of promising features.
+
 
 I mean,
 
